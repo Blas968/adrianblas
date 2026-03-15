@@ -1,49 +1,71 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Gol Directo: El Diario del Hincha</title>
-    <link>https://misitiofutbol.com</link>
-    <description>Toda la actualidad del fútbol mundial: fichajes, goles y polémicas.</description>
-    <language>es-es</language>
+    <title>Deportes Hoy</title>
+    <link>https://deporteshoy.es/</link>
+    <description>Las últimas noticias del mundo del deporte: fútbol, baloncesto, tenis, ciclismo y más.</description>
+    <copyright>CC BY-SA 4.0 – Deportes Hoy</copyright>
+    <language>es-ES</language>
+    <lastBuildDate>Sun, 15 Mar 2026 10:00:00 +0100</lastBuildDate>
 
     <item>
-      <title>Bombazo en el Mercado: ¡Fichaje estrella confirmado!</title>
-      <link>https://misitiofutbol.com/fichajes-verano</link>
-      <description>El delantero del momento firma por cinco temporadas tras una negociación récord de 120 millones.</description>
-      <author>Redacción Gol Directo</author>
-      <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
+      <title>Real Madrid gana la Champions League ante el Bayern de Múnich (3-1)</title>
+      <link>https://deporteshoy.es/futbol/real-madrid-champions-2026.html</link>
+      <description>El Real Madrid se proclamó campeón de la Champions League por decimoséptima vez tras vencer al Bayern de Múnich con goles de Vinicius Jr., Bellingham y Rodrygo. Una noche histórica en el Bernabéu.</description>
+      <author>Carlos Martínez</author>
+      <category>Fútbol</category>
+      <pubDate>Sun, 15 Mar 2026 09:00:00 +0100</pubDate>
+      <link>https://deporteshoy.es/futbol/real-madrid-champions-2026.html</link>
     </item>
 
     <item>
-      <title>Resumen de la Jornada: Remontada épica en el Clásico</title>
-      <link>https://misitiofutbol.com/cronica-partido</link>
-      <description>Con dos goles en el tiempo de descuento, el equipo local se lleva los tres puntos y el liderato.</description>
-      <author>Redacción Gol Directo</author>
-      <pubDate>Sat, 14 Mar 2026 21:30:00 GMT</pubDate>
+      <title>Rafa Nadal anuncia su retirada del tenis profesional</title>
+      <link>https://deporteshoy.es/tenis/nadal-retirada-2026.html</link>
+      <description>El tenista español Rafa Nadal ha confirmado oficialmente su retirada del tenis profesional en una emotiva rueda de prensa celebrada en su academia de Manacor, poniendo fin a una carrera legendaria con 22 títulos de Grand Slam.</description>
+      <author>Laura Sánchez</author>
+      <category>Tenis</category>
+      <pubDate>Sat, 14 Mar 2026 17:30:00 +0100</pubDate>
+      <link>https://deporteshoy.es/tenis/nadal-retirada-2026.html</link>
     </item>
 
     <item>
-      <title>Sorteo de Champions: Cruces de infarto en Cuartos</title>
-      <link>https://misitiofutbol.com/sorteo-champions</link>
-      <description>Ya conocemos los emparejamientos. Habrá duelo entre los dos máximos favoritos al título.</description>
-      <author>Redacción Gol Directo</author>
-      <pubDate>Fri, 13 Mar 2026 14:00:00 GMT</pubDate>
+      <title>El FC Barcelona ficha a Yamal por 200 millones hasta 2032</title>
+      <link>https://deporteshoy.es/futbol/barcelona-yamal-renovacion.html</link>
+      <description>Lamine Yamal renueva con el FC Barcelona hasta 2032 por una cláusula de rescisión de 200 millones de euros. El joven delantero catalán, de 18 años, consolida su futuro en el club de su vida tras una temporada espectacular.</description>
+      <author>Jordi Puig</author>
+      <category>Fútbol</category>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0100</pubDate>
+      <link>https://deporteshoy.es/futbol/barcelona-yamal-renovacion.html</link>
     </item>
 
     <item>
-      <title>Entrevista Exclusiva: El Capitán rompe el silencio</title>
-      <link>https://misitiofutbol.com/entrevista-capitan</link>
-      <description>"Este grupo tiene hambre de títulos", declara el líder del vestuario tras las críticas recibidas.</description>
-      <author>Redacción Gol Directo</author>
-      <pubDate>Thu, 12 Mar 2026 10:15:00 GMT</pubDate>
+      <title>Primoz Roglic gana la París-Niza y llega en forma al Tour</title>
+      <link>https://deporteshoy.es/ciclismo/roglic-paris-niza-2026.html</link>
+      <description>El ciclista esloveno Primoz Roglic se impuso en la París-Niza con una demostración de fuerza en la contrarreloj final. El líder del equipo Red Bull–Bora llega como gran favorito al Tour de Francia 2026.</description>
+      <author>Ana Ferreiro</author>
+      <category>Ciclismo</category>
+      <pubDate>Thu, 12 Mar 2026 19:00:00 +0100</pubDate>
+      <link>https://deporteshoy.es/ciclismo/roglic-paris-niza-2026.html</link>
     </item>
 
     <item>
-      <title>Fútbol Femenino: Récord histórico de asistencia</title>
-      <link>https://misitiofutbol.com/futbol-femenino-record</link>
-      <description>Más de 90.000 espectadores llenaron el estadio para presenciar la final de la Copa.</description>
-      <author>Redacción Gol Directo</author>
-      <pubDate>Wed, 11 Mar 2026 18:45:00 GMT</pubDate>
+      <title>España derrota a Francia y se clasifica para el EuroBasket</title>
+      <link>https://deporteshoy.es/baloncesto/espana-eurobasket-clasificacion.html</link>
+      <description>La selección española de baloncesto venció a Francia por 89-74 en el último partido de clasificación para el EuroBasket 2027. Willy Hernangómez lideró al equipo con 24 puntos y 11 rebotes en un partido de altísimo nivel.</description>
+      <author>Miguel Torres</author>
+      <category>Baloncesto</category>
+      <pubDate>Wed, 11 Mar 2026 21:30:00 +0100</pubDate>
+      <link>https://deporteshoy.es/baloncesto/espana-eurobasket-clasificacion.html</link>
+    </item>
+
+    <item>
+      <title>Jon Rahm conquista el Masters de Augusta por segunda vez</title>
+      <link>https://deporteshoy.es/golf/rahm-masters-augusta-2026.html</link>
+      <description>El golfista español Jon Rahm se adjudicó su segundo Masters de Augusta con una ronda final de 65 golpes, superando por dos al americano Scottie Scheffler. Rahm se consolida como el mejor golfista del mundo.</description>
+      <author>Patricia Vega</author>
+      <category>Golf</category>
+      <pubDate>Mon, 10 Mar 2026 20:00:00 +0100</pubDate>
+      <link>https://deporteshoy.es/golf/rahm-masters-augusta-2026.html</link>
     </item>
 
   </channel>
