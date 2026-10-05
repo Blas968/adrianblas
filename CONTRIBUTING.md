@@ -160,3 +160,6 @@ Evita `git add .` sin mirar antes qué vas a subir (`git status`).
 ## ¿Dudas?
 
 Abre un *issue* en el repositorio explicando tu duda o propuesta antes de empezar a trabajar en algo grande.
+
+
+Este es mi granito de arena en este proyecto

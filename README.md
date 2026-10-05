@@ -109,3 +109,5 @@ Conexión a internet la primera vez, para que Maven descargue las dependencias.
 ## Contribuir
 
 Si quieres colaborar, lee antes [CONTRIBUTING.md](CONTRIBUTING.md): explica cómo crear ramas, escribir commits y abrir Pull Requests.
+
+Este es mi granito de arena en este proyecto
